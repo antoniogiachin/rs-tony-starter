@@ -4,7 +4,7 @@ description = "A simple way for initialize vite ts/react app"
 authors = ["Antonio Giachin <giachinantonio@outlook.com>"]
 license = "MIT"
 repository = "https://github.com/antoniogiachin/rs-tony-starter.git"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 
 
